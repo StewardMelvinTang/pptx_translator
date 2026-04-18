@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda run *)",
+      "Bash(kill %1)",
+      "Bash(wait)",
+      "WebSearch"
+    ]
+  }
+}
