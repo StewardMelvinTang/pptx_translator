@@ -4,7 +4,10 @@
       "Bash(conda run *)",
       "Bash(kill %1)",
       "Bash(wait)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(conda create:*)",
+      "WebFetch(domain:platform.openai.com)",
+      "Bash(C:/Users/Melvin/.conda/envs/pptx_translator/python.exe:*)"
     ]
   }
 }
